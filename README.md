@@ -1,9 +1,3 @@
-# Workforce Demand Analysis
-
-This project explores customer demand and staffing patterns using basic data analysis and visualization.
-
-Status: In progress.
-
 # Workforce Demand Analysis & Scheduling
 
 ## Overview
@@ -39,11 +33,10 @@ This step helped identify general demand patterns and confirmed that the data wa
 
 ## Step 3: Data Visualization
 
-In this step, I visualized customer demand across different hours of the day.  
-Using a line chart, I plotted customer volume by hour to identify peak demand periods.
+In this step, I visualized customer demand across different hours of the day using a line chart.  
+The chart shows how customer volume changes by hour, helping identify peak demand periods.
 
-Additional visualization techniques were used to compare sales and staffing levels relative to demand.  
-These charts make it easier to see trends and understand how workload changes throughout the day.
+Additional visualizations compare sales and staffing relative to demand, offering insight into operational patterns.
 
 ---
 
@@ -54,7 +47,7 @@ I grouped the dataset by hour and calculated the average sales for each hour.
 This produces a summarized view of typical sales patterns throughout the day.
 
 The resulting averages can be used as a simple forecast, assuming future days follow similar demand trends.  
-This approach provides a clear baseline for understanding when higher sales are likely to occur and can support staffing and scheduling decisions.
+This approach provides a basic baseline for estimating busy periods and supporting staffing decisions.
 
 ---
 
