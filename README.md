@@ -51,5 +51,25 @@ This approach provides a basic baseline for estimating busy periods and supporti
 
 ---
 
+## Insights & Observations
+
+- Customer demand and sales vary significantly by hour.
+- Evening hours show the highest average sales, indicating peak demand periods.
+- Midday hours show lower but more consistent sales activity.
+- The forecast suggests that staffing and resource allocation should be higher during peak evening hours.
+
+## Limitations
+
+- This forecast is based on historical averages and assumes future demand follows similar patterns.
+- Additional data across more days would improve reliability.
+
+## Next Improvements
+
+- Incorporate more historical data.
+- Explore forecasting methods beyond simple averages.
+- Compare forecasted demand against actual future sales.
+
 ## Project Status
 This project is currently in progress and may be expanded with additional analysis or forecasting techniques in the future..
+
+
